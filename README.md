@@ -1,4 +1,4 @@
-# To-Do: A Flutter-Based Task Management App
+# ToDo: A Flutter-Based Task Management App
 
 To-Do is a feature-rich task management application built using Flutter with the Bloc pattern, ensuring efficient state management. The app leverages SQLite (sqflite) for local data storage, allowing users to perform complete CRUD (Create, Read, Update, Delete) operations seamlessly.
 

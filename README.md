@@ -14,4 +14,4 @@ To-Do is a feature-rich task management application built using Flutter with the
 
 ## Screenshots
 
-![App Screenshot](https://github.com/shahid531/ToDo-Flutter-App/blob/a2f49757b6cf2607dfb22ef5f04ab0ba6ba3d6ba/todo_app.jpg)
+<img src="https://github.com/shahid531/ToDo-Flutter-App/blob/a2f49757b6cf2607dfb22ef5f04ab0ba6ba3d6ba/todo_app.jpg" width="400">

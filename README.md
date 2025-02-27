@@ -11,3 +11,7 @@ To-Do is a feature-rich task management application built using Flutter with the
 ✅ Custom Fonts & UI – Enhances user experience with a personalized and aesthetically pleasing design.
 
 ✅ Full CRUD Functionality – Users can create new tasks, view existing ones, update details, and delete tasks as needed.
+
+## Screenshots
+
+![App Screenshot](https://github.com/shahid531/ToDo-Flutter-App/blob/a2f49757b6cf2607dfb22ef5f04ab0ba6ba3d6ba/todo_app.jpg)

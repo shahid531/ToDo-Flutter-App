@@ -1,16 +1,13 @@
-# todo_app
+# To-Do: A Flutter-Based Task Management App
 
-A new Flutter project.
+To-Do is a feature-rich task management application built using Flutter with the Bloc pattern, ensuring efficient state management. The app leverages SQLite (sqflite) for local data storage, allowing users to perform complete CRUD (Create, Read, Update, Delete) operations seamlessly.
 
-## Getting Started
+## Key Features:
 
-This project is a starting point for a Flutter application.
+✅ Flutter Bloc Integration – Ensures smooth state management and efficient UI updates.
 
-A few resources to get you started if this is your first Flutter project:
+✅ SQLite (sqflite) Database – Provides offline storage for tasks, enabling data persistence.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ Custom Fonts & UI – Enhances user experience with a personalized and aesthetically pleasing design.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Full CRUD Functionality – Users can create new tasks, view existing ones, update details, and delete tasks as needed.
